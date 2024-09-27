@@ -1,4 +1,4 @@
-# Data Science Capstone
-# by Thiago Valente
+## Data Science Capstone
+##### by Thiago Valente
 
-# This projetc is part of a Capstone project for IBM Professional Data Science course.
+#### This projetc is part of a Capstone project for IBM Professional Data Science course.
